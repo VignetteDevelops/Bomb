@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # Created by https://www.gitignore.io
 
 ### Unity ###
+=======
+>>>>>>> 10d043ca5a80be5394d37b1422f4c0b8889ab234
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -22,6 +25,7 @@
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+<<<<<<< HEAD
 
 # =============== #
 # Unity generated #
@@ -57,3 +61,5 @@ sysinfo.txt
 Icon?
 ehthumbs.db
 [Tt]humbs.db
+=======
+>>>>>>> 10d043ca5a80be5394d37b1422f4c0b8889ab234
