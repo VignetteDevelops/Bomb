@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: db72345d2859f324f8e019d4ea9fb4fa
-timeCreated: 1447531078
+timeCreated: 1447533478
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -63,13 +63,13 @@ TextureImporter:
         height: 41
       alignment: 0
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 1, w: 0}
     - name: pWalking v2_1
       rect:
         serializedVersion: 2
         x: 89
         y: 0
-        width: 38
+        width: 37
         height: 41
       alignment: 0
       pivot: {x: .5, y: .5}
@@ -83,7 +83,7 @@ TextureImporter:
         height: 41
       alignment: 0
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 1, w: 0}
     - name: pWalking v2_3
       rect:
         serializedVersion: 2
@@ -93,7 +93,7 @@ TextureImporter:
         height: 41
       alignment: 0
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 1, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 
