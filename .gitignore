@@ -67,4 +67,9 @@ Icon?
 ehthumbs.db
 [Tt]humbs.db
 =======
+
+
+# include meta files
+!*.*.meta
+
 >>>>>>> 10d043ca5a80be5394d37b1422f4c0b8889ab234
